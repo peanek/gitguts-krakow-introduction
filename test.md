@@ -7,4 +7,8 @@
 
 blebloly
 
+<<<<<<< HEAD
 e
+=======
+#Licencja
+>>>>>>> licencja
