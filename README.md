@@ -2,6 +2,9 @@
 
 if(patrysJestDupa == true)
 {
-
+Console.WriteLine();
 
 }
+
+##opis rozszerzony
+
